@@ -1,0 +1,3 @@
+# Project exclude paths
+/cloudalibaba-config-nacos-client3377/target/
+/cloudalibaba-sentinel-service8401/target/
